@@ -32,7 +32,7 @@ function App() {
       
     </div>
     <footer>
-      ghfts
+      <center>icons space</center>
     </footer>
     
   </div>

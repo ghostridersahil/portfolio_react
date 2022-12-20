@@ -8,12 +8,15 @@
   margin:auto;
   padding-top: 8%;
   /* border:20px solid black ; */
-  /* border-radius: 50px; */
+  border-radius: 50px;
   
-  
-
 }
 
+@media screen  and (max-device-width: 480px) and (orientation : portrait){
+  .container{
+    width:95%;
+  }
+}
 
 .content{
   
